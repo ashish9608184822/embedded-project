@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1631800505 source:e:\office work\new project\project\fuse.c
+	<avr/io.h>
+
+1631816729 source:e:\office work\new project\project\lcd.c
+	<avr/io.h>
+	<util/delay.h>
+	"passanger.h"
+
+1631820909 e:\office work\new project\project\passanger.h
+	"stdlib.h"
+	"math.h"
+
+1631820909 source:e:\office work\new project\project\adc.c
+	<avr/io.h>
+	<util/delay.h>
+	"passanger.h"
+
+1631824792 source:e:\office work\new project\project\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<string.h>
+	"passanger.h"
+
